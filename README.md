@@ -118,7 +118,7 @@ The system puts the operational burden on the people rather than on the processe
 
 
 ### Summary:
-Forsythe Pharmacy use WhatsApp to manage just-in-time drug orders from hospitals. When the number of hospitals grew, this caused missed and duplicate orders, poor accountability,, no reporting, and a system that was unreliable and hard to audit for pharmacy operations.
+Forsythe Pharmacy uses WhatsApp to manage just-in-time drug orders from hospitals. As the number of hospitals grew, this caused missed and duplicate orders, poor accountability, no reporting, and a system that was unreliable and hard to audit for pharmacy operations.
 
 
 ## Constraints
